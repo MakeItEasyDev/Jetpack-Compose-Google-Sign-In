@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleSignIn</string>
+    <string name="google_client_id">Enter Auth Client Id</string>
+</resources>
